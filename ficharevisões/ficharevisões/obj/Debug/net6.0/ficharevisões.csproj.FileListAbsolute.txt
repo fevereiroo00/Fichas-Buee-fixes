@@ -1,0 +1,16 @@
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\obj\Debug\net6.0\ficharevisões.GlobalUsings.g.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\obj\Debug\net6.0\ficharevisões.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\obj\Debug\net6.0\ficharevisões.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\obj\Debug\net6.0\ficharevisões.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\obj\Debug\net6.0\ficharevisões.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\obj\Debug\net6.0\ficharevisões.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\bin\Debug\net6.0\ficharevisões.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\bin\Debug\net6.0\ficharevisões.deps.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\bin\Debug\net6.0\ficharevisões.runtimeconfig.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\bin\Debug\net6.0\ficharevisões.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\bin\Debug\net6.0\ref\ficharevisões.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\bin\Debug\net6.0\ficharevisões.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\obj\Debug\net6.0\ficharevisões.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\obj\Debug\net6.0\ref\ficharevisões.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\obj\Debug\net6.0\ficharevisões.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\ficharevisões\ficharevisões\obj\Debug\net6.0\ficharevisões.genruntimeconfig.cache

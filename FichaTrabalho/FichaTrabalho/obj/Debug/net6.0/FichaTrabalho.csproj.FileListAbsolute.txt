@@ -1,0 +1,16 @@
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\obj\Debug\net6.0\FichaTrabalho.GlobalUsings.g.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\obj\Debug\net6.0\FichaTrabalho.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\obj\Debug\net6.0\FichaTrabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\obj\Debug\net6.0\FichaTrabalho.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\obj\Debug\net6.0\FichaTrabalho.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\obj\Debug\net6.0\FichaTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\bin\Debug\net6.0\FichaTrabalho.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\bin\Debug\net6.0\FichaTrabalho.deps.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\bin\Debug\net6.0\FichaTrabalho.runtimeconfig.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\bin\Debug\net6.0\FichaTrabalho.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\bin\Debug\net6.0\ref\FichaTrabalho.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\bin\Debug\net6.0\FichaTrabalho.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\obj\Debug\net6.0\FichaTrabalho.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\obj\Debug\net6.0\ref\FichaTrabalho.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\obj\Debug\net6.0\FichaTrabalho.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\fivem\FichaTrabalho\FichaTrabalho\obj\Debug\net6.0\FichaTrabalho.genruntimeconfig.cache
